@@ -1,2 +1,2 @@
 # Weather API
-This website has an API documentation
+This website has an API
